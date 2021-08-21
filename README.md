@@ -10,3 +10,7 @@ In this project, I:
 1. Analysed customer-level data of a leading telecom firm
 2. Built predictive models to identify customers at high risk of churn 
 3. Identified the main indicators of churn.
+
+
+Project File - `Telecom_Churn_Case_Study.ipynb`
+Data Dictionary - `Data+Dictionary-+Telecom+Churn+Case+Study.xlsx`
